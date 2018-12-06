@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Community Event Finder</string>
+    <string name="myEvents">My Events</string>
+    <string name="nearMe">Events Near Me</string>
+    <string name="rewards">Rewards</string>
+    <string name="history">History</string>
+</resources>
